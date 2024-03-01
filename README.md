@@ -56,5 +56,7 @@ Here are the concepts :
       * 1 load-balancer (HAproxy) configured as cluster with the other one
       * Split components (web server, application server, database) with their own server
 
+![Scale up](https://github.com/savvyh/holbertonschool-system_engineering-devops/assets/139894873/c97f2546-0f2f-4ba1-acb2-08e17c217db3)
+
 ### Authors 🧞‍♀️
 Sarah Boutier
