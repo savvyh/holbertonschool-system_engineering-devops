@@ -29,7 +29,7 @@ Here are the concepts :
       * 1 database (MySQL)
       * 1 domain name foobar.com configured with a www record that points to your server IP 8.8.8.8
 
-![web](https://github.com/savvyh/holbertonschool-system_engineering-devops/assets/139894873/a829fe9c-b431-495b-b2c8-f7b9bd9c75cd)
+![web](https://github.com/savvyh/holbertonschool-system_engineering-devops/assets/139894873/5295da54-4d7c-4198-939e-134758816710)
 
 1. Distributed web infrastructure
     - Requirements:
@@ -40,7 +40,7 @@ Here are the concepts :
       * 1 set of application files (your code base)
       * 1 database (MySQL)
 
-![web (1)](https://github.com/savvyh/holbertonschool-system_engineering-devops/assets/139894873/54187bca-17c4-417d-9d6d-79715a8990cc)
+![Design sans titre](https://github.com/savvyh/holbertonschool-system_engineering-devops/assets/139894873/215a365b-2049-415b-ac2a-0a98d3994225)
 
 2. Secured and monitored web infrastructure
     - Requirements:
