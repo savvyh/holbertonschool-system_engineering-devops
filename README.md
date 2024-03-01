@@ -48,6 +48,8 @@ Here are the concepts :
       * 1 SSL certificate to serve www.foobar.com over HTTPS
       * 3 monitoring clients (data collector for Sumologic or other monitoring services)
 
+![8 8 8 8 HTTPS response](https://github.com/savvyh/holbertonschool-system_engineering-devops/assets/139894873/1b10225e-984b-4a4b-a1e3-c2158c577e11)
+
 3. Scale up
     - Requirements:
       * 1 server
